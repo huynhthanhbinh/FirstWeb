@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        Richard's web
+    </title>
+    < link rel="shortcut icon" href="favicon.ico">
+</head>
+<body>
+
+</body>
+</html>
+
+<link rel="x" href="y"> !!!! to link y to x

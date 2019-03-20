@@ -1,0 +1,19 @@
+.container {
+  max-width:1024px;
+  margin: auto;
+  border: 3px solid #73AD21;
+  background-color: cadetblue
+}
+
+.header img {
+  float: left;
+  width: 64px;
+  height: 64px;
+  background: #555;
+}
+  
+.header h1 {
+  position: relative;
+  left: 10px;
+  height: 30px;
+}
