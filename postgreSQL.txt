@@ -35,3 +35,25 @@ Connect db:
 using psql or pgAdmin 4
 
 SQL shell (psql) provided by Postgre like terminal
+Server[localhost]: [enter]
+Database[postgres]: [enter]
+Port[5432]: [enter]
+Username[postgres]: [enter]
+Password: [enter_password]
+don't mind the WARNING
+
+postgres=# means waiting for some instruction
+example: SELECT version();
+terminate: [Ctrl + C] --> [y] --> [enter]
+
+GUI App: pgAdmin 4
+On toolbar choosing Tools 
+Or Right click on the database, choose Query tools
+
+Other connect-able apps: app using
+ODBC or JDBC driver
+
+Sample Database to run for example:
+http://www.postgresqltutorial.com/postgresql-sample-database/
+
+
