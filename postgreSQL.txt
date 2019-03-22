@@ -1,0 +1,37 @@
+PostgreSQL also calls Postgres
+Main concepts:
+ 1. install
+ 2. load db
+ 3. create db
+ 4. create table
+ 5. insert data
+ 6. update records
+ 7. delete records
+ 8. join tables
+ 9. backup and restore db
+10. management roles
+11. create tablespaces
+12. operators
+13. aggregate and analytic function
+14. view and trigger
+
+relational db management system (RDBMS) 
+like oracle, mssql
+relational db model
+structure query language
+general purpose
+platform independent
+stable, require minimum maintainance
+large storage
+good performance: fast
+EXTENSIBLE: can define your own data type
+
+Who is using?
+hhtp://www.postgresql.org/about/users
+
+Installation: verify through pgAdmin app
+
+Connect db:
+using psql or pgAdmin 4
+
+SQL shell (psql) provided by Postgre like terminal
