@@ -13,5 +13,11 @@ sudo apt-get update
 exit
 :q
 
-git config --global user.email "1653006@student.hcmus.edu.vn"
-git config --global user.name "huynhthanhbinh"
+$ git init
+$ git add .
+$ git commit -m "First commit"
+$ git commit -m "Add existing file"
+$ git remote add origin << remote repository URL >>
+$ git remote -v
+$ git push origin master
+$ git push origin your-branch
