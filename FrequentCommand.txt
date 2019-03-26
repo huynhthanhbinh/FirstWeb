@@ -1,0 +1,17 @@
+FREQUENT COMMAND - huynhthanhbinh1998
+
+service postgresql start
+service postgresql stop
+service postgresql status
+sudo -u postgres -i
+psql postgres postgres
+
+sudo rm -r path
+sudo -s
+sudo apt-get install
+sudo apt-get update
+exit
+:q
+
+git config --global user.email "1653006@student.hcmus.edu.vn"
+git config --global user.name "huynhthanhbinh"
